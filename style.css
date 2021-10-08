@@ -1,0 +1,16 @@
+.main{
+    display: flex;
+    justify-content: center;
+    
+}
+p{
+    text-align: center;
+}
+input:focus {
+    background-image: linear-gradient(90deg, rgb(230, 196, 142),white)
+}
+
+.card{
+    background-color: burlywood;
+    width: 100%;
+}
